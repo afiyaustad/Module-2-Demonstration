@@ -1,0 +1,15 @@
+.custom-card {
+    width: 350px;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .custom-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-title {
+    color: #007bff;
+    font-weight: bold;
+  }
