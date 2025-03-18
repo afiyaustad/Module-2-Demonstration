@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dU0ND68XZlc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AFIYA\\reactDemo\\React_WebAPI_.NETCore_Connectivity\\my-react-app\\my-backend-react-using-axios\\my-backend-react-using-axios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AFIYA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\AFIYA\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
