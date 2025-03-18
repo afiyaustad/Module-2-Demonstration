@@ -1,0 +1,15 @@
+Dynamic Routing and Route pattern: 
+Demo 2: Create a Product Details page that display details based on the product ID from the URL
+Expected output : 
+Visiting /product /1 show us the details of product 1 and /product/2 show for 2nd product.
+Step 1: Install react-router-dom
+Step 2: Setting up Routing in App.js
+‘/products/:id’ is the dynamic route where :id is a route parameter
+Clicking a product link will navigate to /products/1, /products/2, etc.
+Step 3: Create Product.js( product list page)( it consist of list of product and link to their details)
+Step 4: Create ProductDetails.js(Dynamic product Page)
+This page extracts the product ID from the uRL and displays product details
+Here we create useParams() extracts the ID from the URL
+It will display products details or show ”Product not found” if the I is invalid
+Step 5: Create a Home.js( Home Page)
+For better navigation, add a basic home page
